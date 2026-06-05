@@ -725,7 +725,7 @@ Total: `0 (left) + 0 (right) + 5 (cross) = 5` ✅
 
 ## 🔗 Connect
 
-Follow along as I tackle all 45 days of the SDE Sheet — daily problems, clean explanations, and full dry runs.
+Follow along as I tackle all 45 days of the SDE Sheet —daily problems, clean explanations, and full dry runs.
 
 > ⭐ Star this repo if it helps you | Drop a comment if anything's unclear!
 
