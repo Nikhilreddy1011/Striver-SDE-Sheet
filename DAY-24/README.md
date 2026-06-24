@@ -1,20 +1,3 @@
-Got it. The README style in your Day 1 file is **very detailed**, with:
-
-* Problem Statement
-* Examples
-* Brute Force Intuition
-* Brute Force Steps
-* Dry Run
-* Optimal Intuition
-* Optimal Steps
-* Detailed Explanation
-* Complexity Table
-* Key Learnings
-
-For **Day 24 (Stack & Queue)**, you should follow the exact same professional format as your Day 1 README. The uploaded example is a strong template. 
-
-A professional Day 24 README should look like:
-
 # 🚀 Day 24/45 – #SDESheetChallenge
 
 Today focused on understanding the implementation of fundamental data structures from scratch instead of relying on Java's built-in Stack and Queue classes.
